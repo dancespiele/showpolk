@@ -1,0 +1,18 @@
+{
+  "name": "showpolk",
+  "version": "0.1.0",
+  "description": "back-end javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node showpolk"
+  },
+  "author": "Francisco Jesus Navarro Cortes",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.3.1",
+    "@polkadot/types": "^2.3.1",
+    "dotenv": "^8.2.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
