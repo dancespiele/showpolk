@@ -10,6 +10,10 @@
 * typescript
 * ts-node
 
+## Install dependencies
+
+`npm install`
+
 ## How get the last block information
 
 `./showpolk.js` or `./showpolk.ts`
